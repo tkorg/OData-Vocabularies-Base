@@ -1,0 +1,14 @@
+This specification is entirely created and contributed by the following contributors. They have generously
+contributed their work via the Open Web Foundation Contributor License Agreement 1.0 - Copyright and Patent
+(http://www.openwebfoundation.org/legal/the-owf-1-0-agreements/owf-contributor-license-agreement-1-0---copyright-and-patent).
+
+By adding his name to this file, a contributor is indicating that he has signed and agrees to the
+above agreement.
+
+The agreement has been copied into the Agreemends directory of this repository for convenience in case
+the above URL becomes unreachable.
+
+Contributors:
+-------------
+
+* 

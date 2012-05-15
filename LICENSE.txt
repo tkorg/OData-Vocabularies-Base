@@ -1,0 +1,7 @@
+This vocabulary is licensed under the terms of the Open Web Foundation Final Specification Agreement (OWFa 1.0), as published at
+http://www.openwebfoundation.org/legal/the-owf-1-0-agreements/owfa-1-0
+
+This agreement has been copied into the Agreements directory of this repository for convenience and in case the above URL becomes
+unreachable.
+
+This agreement covers all versions of the vocabulary specification.
