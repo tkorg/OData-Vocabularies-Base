@@ -1,0 +1,1 @@
+Remove this placceholder once you publish your first version of the protocol. It's just here so that git won't delete the Versions directory.
