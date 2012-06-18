@@ -1,7 +1,6 @@
 # Vocabulary Spec Template #
-## Working Draft 14 May 2012 ##
+## Working Draft {{ Date }} ##
 
-#### This version: { Link to this version } ####
 #### Latest published version: { linked to latest published version } ####
 #### Authors: ####
 

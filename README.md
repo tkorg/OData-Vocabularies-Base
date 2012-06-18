@@ -39,7 +39,7 @@ Getting Started
 There are a couple of things that you should do when you first start defining a vocabulary. Some of them are obvious; some are less so.
 
 1. Fork this repo.
-2. Rename VocabName.Next.md to match the name for your vocabulary (e.g., Capabilities.Next.md).
+2. Rename VocabName.Next.md to match the name for your vocabulary (e.g., Display.Next.md).
 3. Pick a license. This template includes a default option. This will work for many cases. But certain vocabulary-defining entities (such as standards organizations) will want to use other licenses. If you are using these licenses, update the CLA agreement to use the correct name for your vocabulary specification.
 4. Fill in contributors.txt with any initial authors. Make sure you've got contributor license agreements from each author that will allow publishing under the above license.
 5. Start writing your vocabulary. VocabName.Next.md includes a template structure that can get you started. You can vary from the structure, but this is a good starting point.
